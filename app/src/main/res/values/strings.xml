@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fitness Tracker App</string>
+    <string name="length">N/A</string>
+    <string name="time">N/A</string>
+    <string name="speed">N/A</string>
+    <string name="length_name">Length:</string>
+    <string name="speed_name">Speed:</string>
+    <string name="time_name">Time:</string>
+    <string name="start">Start</string>
+    <string name="finish">Finish</string>
+</resources>
